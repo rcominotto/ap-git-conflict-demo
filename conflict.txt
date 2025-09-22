@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Deze aanpassing geeft een conflict.
+=======
+Dit geeft een lokaal conflict
+>>>>>>> 4a0578a (Tweede lokale aanpassing)
